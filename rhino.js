@@ -1,4 +1,4 @@
-common.hookAllMethods('com.miui.permcenter.privacymanager.g', 'n', function (params) {
+common.hookAllMethods('com.miui.permcenter.privacymanager.InterceptBaseFragment', 'm', function (params) {
 }, function (params) {
     // common.log("after");
 }, function (params) {
